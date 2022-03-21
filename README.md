@@ -23,6 +23,6 @@
 
 <p><img width="420" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fady-wafaa&show_icons=true&locale=en&layout=compact" alt="fady-wafaa" /></p>
 
-<p>&nbsp;<img  width="420" align="center" src="https://github-readme-stats.vercel.app/api?username=fady-wafaa&show_icons=true&locale=en" alt="fady-wafaa" /></p>
+<p>&nbsp;<img  width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=fady-wafaa&show_icons=true&locale=en" alt="fady-wafaa" /></p>
 
-<p ><img align="center"  width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=fady-wafaa&" alt="fady-wafaa" /></p>
+
